@@ -61,7 +61,7 @@ function generatePassword() {
       return}
     else if (typeset3 == "YES") {
       optionSymbols = true;}
-    else if (typeset2 == "NO") {
+    else if (typeset3 == "NO") {
       optionSymbols = false;
     }
       else {return;
